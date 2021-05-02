@@ -40,7 +40,7 @@ Para verificar a instalação abra o _prompt_ ou um terminal e execute `git --ve
 
 ## Executando
 
-Com tudo isto pronto deve ser possível abrir o arquivo [App.java](src/App.java) e clicar em `run` para executar o projeto. Se quiser fazê-lo manualmente, abra um terminal no Linux ou _prompt_ de comando no Windows, e na pasta raiz do projeto execute `javac -cp bin -d bin src/App.java; java -cp bin App`. Estão incluidos, também, scripts para _build_ e _run_.
+Com tudo isto pronto deve ser possível abrir o arquivo [App.java](src/App.java) e clicar em `run` para executar o projeto. Se quiser fazê-lo manualmente, abra um terminal no Linux ou _prompt_ de comando no Windows, e na pasta raiz do projeto execute `javac -cp bin -d bin src/App.java; java -cp bin App`.
 
 ## Testagem
 
